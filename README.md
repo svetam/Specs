@@ -34,6 +34,14 @@ Website: [https://newrelic.com/mobile-monitoring](https://newrelic.com/mobile-mo
 | -------- | -------- |
 | iOS      | `binary "https://raw.githubusercontent.com/svetam/Specs/master/Carthage/iOS/NewRelicAgent.json"` |
 
+### Survey Monkey
+The SurveyMonkey Mobile Feedback SDK for iOS.<br>
+Website: [https://github.com/SurveyMonkey/surveymonkey-ios-sdk](https://github.com/SurveyMonkey/surveymonkey-ios-sdk)
+
+| Platform | Lines to add to your Cartfile |
+| -------- | -------- |
+| iOS      | `binary "https://raw.githubusercontent.com/svetam/Specs/master/Carthage/iOS/SurveyMonkey.json"` |
+
 ## Contribute
 
 If you want to add a popular framework to this list or if you notice that one of the JSON files is outdated, feel free to drop me a [pull request](https://github.com/Building42/Specs/pulls) and I'll merge it in.
